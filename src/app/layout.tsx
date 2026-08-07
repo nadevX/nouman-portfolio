@@ -4,7 +4,7 @@ import "./globals.css";
 export const metadata: Metadata = {
 
   metadataBase: new URL(
-    "https://your-domain.com"
+    "https://nouman-portfolio.vercel.app"
   ),
 
   title:
@@ -58,7 +58,7 @@ export const metadata: Metadata = {
       "Artificial Intelligence portfolio showcasing Machine Learning, Deep Learning, Computer Vision, and AI research projects.",
 
     url:
-      "https://your-domain.com",
+      "https://nouman-portfolio.vercel.app",
 
     siteName:
       "Nouman AI",
@@ -178,7 +178,7 @@ export default function RootLayout({
                 "AI Engineer specializing in Machine Learning, Deep Learning, Computer Vision, and Artificial Intelligence.",
 
               "url":
-                "https://your-domain.com",
+                "https://nouman-portfolio.vercel.app",
 
               "sameAs":
 
